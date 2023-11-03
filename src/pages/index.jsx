@@ -21,5 +21,5 @@ document.querySelector('#root').innerHTML = render(
         Digitální akademie: Web
       </p>
     </footer>
-  </div>,
+  </div>
 );
