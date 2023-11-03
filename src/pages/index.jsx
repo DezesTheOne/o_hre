@@ -5,14 +5,13 @@ import './index.css';
 document.querySelector('#root').innerHTML = render(
   <div className="container">
     <header>
-      <div className="logo"></div>
-      <h1>Webová aplikace</h1>
+      <h1>O projektu</h1>
     </header>
     <main>
-      <p>Startovací šablona pro webovou aplikaci v JavaScriptu s JSX. Vytvořeno pomocí <a href="https://www.npmjs.com/package/create-kodim-app">create-kodim-app</a>.</p>
+      <p></p>
     </main>
     <footer>
-      <p>Czechitas, Digitální akademie: Web</p>
+      <p>Hedvika Reichlová, Tereza Smolová, Kristýna Jozífová - Czechitas, Digitální akademie: Web</p>
     </footer>
   </div>
 );
